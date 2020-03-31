@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1283793677</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\ST\STM32F4xx\Source\Templates\iar\startup_stm32f4xx.s</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\ARM-Cortex-M4\IAR\cpu.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\Include\core_cm4_simd.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\cpu_core.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tick.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_crc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_q.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_q.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rng.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mem.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_i2c.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\switch.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_prio.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_q.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_pend_multi.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_task.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_prio.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_type.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mutex.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_time.__cstat.et</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_gpio.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tmr.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_stat.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_int.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\ST\STM32F4xx\Include\system_stm32f4xx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_sem.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_flag.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_c.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_stat.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tmr.o</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\os_cpu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_c.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_flag.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_c.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_var.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_rcc.o</file>
+      <file>$PROJ_DIR$\os_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_sdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_pend_multi.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_task.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tmr.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cfg_app.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_time.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_syscfg.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_it.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_fsmc.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_time.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_core.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_task.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mem.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_cryp.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_var.pbi</file>
+      <file>$PROJ_DIR$\stm32f4xx_it.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_stat.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_wwdg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\startup_stm32f4xx.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_hash.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dcmi.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dac.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_can.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_rcc.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_core.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_int.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_sem.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\ST\STM32F4xx\Include\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_app_hooks.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_sem.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_core.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_flag.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_msg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_msg.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mem.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$PROJ_DIR$\stm32f4xx_conf.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_syscfg.o</file>
+      <file>$PROJ_DIR$\switch.icf</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_var.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tick.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_int.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\Include\core_cm4.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4_discovery.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_syscfg.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_prio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_dbg.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_tick.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_core.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\misc.__cstat.et</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_core.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_pend_multi.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Utilities\STM32F4-Discovery\stm32f4_discovery.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dbgmcu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_rcc.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_msg.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cfg_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mutex.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\cpu_core.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_app_hooks.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\app_dns-c.h</file>
+      <file>$PROJ_DIR$\..\lib_def.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\net_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\includes.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\lib_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\http-c_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\trcConfig.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\http-c_app.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\dns-c_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\http-c_hooks.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\app_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_app_hooks.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_cfg_app.h</file>
+      <file>$PROJ_DIR$\..\cpu_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\trace_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\stm32f4xx.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\stm32f4xx_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\net_dev_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\dhcp-c_cfg.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\app_tcpip.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\trcHardwarePort.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\webpages.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_q.c</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Utilities\STM32F4-Discovery\stm32f4_discovery.c</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\cpu_core.c</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_flag.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_int.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\ARM-Cortex-M4\IAR\cpu_c.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_sem.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_prio.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_task.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_pend_multi.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mutex.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mem.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tmr.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_var.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_msg.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_stat.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_time.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tick.c</file>
+      <file>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\cpu_def.h</file>
+      <file>$PROJ_DIR$\main.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_mutex.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_stm32f4xx.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_app_hooks.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_cfg_app.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4_discovery.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4_discovery.o</file>
+      <file>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\c.out</file>
+      <file>$PROJ_DIR$\os.h</file>
+      <file>$PROJ_DIR$\stm32f4xx_it.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\stm32f4xx_gpio.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\os_app_hooks.o</file>
+      <file>$PROJ_DIR$\system_stm32f4xx.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\CMSIS\ST\STM32F4xx\Source\Templates\iar\startup_stm32f4xx.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 80</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 195</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_app_hooks.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 187</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 196 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 1 3 148 183 196 55 135 48 179 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_q.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 1 55 48 148 183 87 3 28 179 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Utilities\STM32F4-Discovery\stm32f4_discovery.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 193</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 192</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 115</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 125 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 24 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93 69 191 131 29 44 84 189 114 7 70 188 39 14 9 106 33 58 85 111 82 59 15 79 125 103 194 2 4 35 179 86 75 126 101 83 81 18 51 16 56 24 108 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\misc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 122</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 24 189 108 79</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 188 93 44 70 39 191 131 29 84 69 189 114 14 9 106 33 58 85 111 82 59 15 79 27 103 194 2 4 35 179 86 75 126 101 83 81 18 51 16 56 24 108</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 127</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 88</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 59 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 16 188 56 15 24 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93 188 39 7 44 70 191 131 29 84 69 189 114 14 9 106 33 58 85 111 82 59 15 79 103 194 2 4 35 179 86 75 126 101 83 81 18 51 16 56 24 108 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_core.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 89</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 3 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_syscfg.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 104</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 117</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86 103 16 93 2 83 27 39 126 18 24 59 114 191 194 4 44 35 179 33 75 101 81 51 56 108 14 9 131 106 29 58 7 85 84 111 70 82 69 188 15 189 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\cpu_core.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 123</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 96</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 132</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3 1 179 44 183 135 148</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 135 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\STM32F4-Discovery_FW_V1.1.0\Libraries\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 198</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 45</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 82 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 18 69 51 59 16 188 56 15 24 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93 44 70 7 188 39 191 131 29 84 69 189 59 114 14 9 106 33 58 85 111 82 15 79 103 194 2 4 35 179 86 75 126 101 83 81 18 51 16 56 24 108 27</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_flag.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 50</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 28 179 44 3 87 55 48 1 148 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_int.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 113</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 3 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uC-CPU\ARM-Cortex-M4\IAR\cpu_c.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 42</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 179 44 183 3 135 148</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 3 179 1 183 44 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_sem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 95</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 40</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 183 148 55 1 135 87 3 28 179 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_prio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 26</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 3 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_task.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48 55 135 87 3 28 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_pend_multi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 55 48 87 3 28 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 129</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 63</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 135 55 48 87 3 28 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mutex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 130</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 135 55 48 148 183 87 3 28 179 44</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 100</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 3 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tmr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 36</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 28 135 179 44 183 87 55 48 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 119</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 87 28 135 179 44 183 55 48 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_var.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 110</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 87 3 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_msg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 128</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 99</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55 48 135 87 3 28 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_stat.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 78</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 28 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 32</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 28 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tick.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 120</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 87 55 3 1 179 44 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 3 87 55 135 48 179 44 183 1 148</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 24 189 108 79 27 196 55 3 1 183 135 148 28 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 93 44 70 191 7 188 135 196 131 29 84 69 189 82 148 114 14 9 106 33 58 85 111 59 15 79 55 48 1 39 103 194 2 4 35 179 86 75 126 101 83 81 18 51 16 56 24 108 27 3 28 183</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\c.out</name>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 105 92 57 80 193 198 64 54 104 21 107 102 5 47</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\stm32f4xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 77 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 24 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 44 108 194 4 101 93 179 51 39 35 75 81 56 114 191 103 2 86 126 83 18 16 24 27 77 14 9 131 106 29 58 7 85 84 111 70 82 69 59 188 15 189 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_stm32f4xx.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 186</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 8</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 114 191 44 4 9 106 29 131 35 194 33 179 14 2 39 103 58 86 7 75 85 126 84 101 111 83 70 81 82 18 69 51 59 16 188 56 15 24 189 108 79 27</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33 44 108 194 4 101 93 39 179 51 35 75 81 56 114 191 103 2 86 126 83 18 16 24 27 14 9 131 106 29 58 7 85 84 111 70 82 69 59 188 15 189 79</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Examples\ST\STM32F4-DISCOVERY\OS3-TCPIP-HTTPc\os_app_hooks.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_q.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_core.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_flag.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_int.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_sem.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_prio.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_task.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_pend_multi.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_cfg_app.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mutex.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_mem.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tmr.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_dbg.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_var.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_msg.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_stat.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_time.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\..\..\..\pdfs\micrium\Micrium\Software\uCOS-III\Source\os_tick.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>$PROJ_DIR$\main.c</name>
+      <tool>ICCARM</tool>
+    </forcedrebuild>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

@@ -1,0 +1,15 @@
+"D:\parikshit\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"D:\parikshit\IAR Systems\Embedded Workbench 7.2\arm\bin\armstlink2.dll" 
+
+"D:\parikshit\micrium projects\main files\tt1\Debug\Exe\c.out" 
+
+--plugin "D:\parikshit\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "D:\parikshit\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "D:\parikshit\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
